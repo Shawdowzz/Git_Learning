@@ -1,2 +1,1 @@
-hello , How are you ?
-I'm good thank you
+This is a Food ingrediant webpage created to retrive details of food with its ingrediants 
