@@ -1,4 +1,4 @@
-const apiKey = '89719c63f20e2950dfd76274a2541bca';
+const apiKey = 'your_api_key';
 const city = 'Mysuru';
 
 
